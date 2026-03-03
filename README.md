@@ -4,6 +4,8 @@
 
 ---
 
+[繁體中文](README_zh.md) | English
+
 ## Overview
 
 This document maps out the configuration paths for four major AI coding assistants, covering:
